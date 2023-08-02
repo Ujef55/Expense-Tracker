@@ -1,5 +1,5 @@
 import NewExpensesForm from './NewExpensesForm';
-import './NewExpensesForm.css';
+import './NewExpenses.css';
 
 const NewExpenses = () => {
     return (
